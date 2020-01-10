@@ -1,0 +1,22 @@
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Gestion de datos.exe.config
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Gestion de datos.exe
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Gestion de datos.pdb
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Gestion de datos.xml
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Google.Protobuf.dll
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\MySql.Data.dll
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Renci.SshNet.dll
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Google.Protobuf.xml
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\MySql.Data.xml
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\bin\Debug\Renci.SshNet.xml
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.vbprojAssemblyReference.cache
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.GestionUsuarios.resources
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.Resources.resources
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.vbproj.GenerateResource.cache
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.vbproj.CoreCompileInputs.cache
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.vbproj.CopyComplete
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.exe
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.xml
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.pdb
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.Form1.resources
+C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.Menu.resources
