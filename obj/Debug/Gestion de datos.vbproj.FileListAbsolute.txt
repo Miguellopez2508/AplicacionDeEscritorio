@@ -1,0 +1,28 @@
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Gestion de datos.exe.config
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Gestion de datos.exe
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Gestion de datos.pdb
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Gestion de datos.xml
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.vbprojAssemblyReference.cache
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion_de_datos.Form1.resources
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion_de_datos.Resources.resources
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.vbproj.GenerateResource.cache
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.exe
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.xml
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.pdb
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Google.Protobuf.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\MySql.Data.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Renci.SshNet.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Google.Protobuf.xml
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\MySql.Data.xml
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\Renci.SshNet.xml
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion de datos.vbproj.CopyComplete
+C:\Workspace-Reto_Alojamientos\Gestion de datos\obj\Debug\Gestion_de_datos.Form2.resources
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Controls.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Controls.UI.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.DirectX.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.MediaFramework.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Shared.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Tools.dll
+C:\Workspace-Reto_Alojamientos\Gestion de datos\bin\Debug\VisioForge.Types.dll
