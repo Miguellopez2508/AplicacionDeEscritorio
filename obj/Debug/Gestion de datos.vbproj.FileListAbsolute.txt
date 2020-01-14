@@ -18,5 +18,4 @@ C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de
 C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.exe
 C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.xml
 C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion de datos.pdb
-C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.Form1.resources
 C:\Users\in1DM3b_01\source\repos\AplicacionDeEscritorio.Net\obj\Debug\Gestion_de_datos.Menu.resources
